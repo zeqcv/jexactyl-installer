@@ -1,4 +1,4 @@
-# :bird: pterodactyl-installer
+# :bird: jexactyl-installer
 
 ![Test Panel](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/panel.yml/badge.svg)
 ![Test Wings](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/wings.yml/badge.svg)
